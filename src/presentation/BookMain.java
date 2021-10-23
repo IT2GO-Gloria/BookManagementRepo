@@ -98,7 +98,7 @@ public class BookMain {
 				continue;
 			} else {
 				System.out.println("**********************************");
-				System.out.println("Thankyou for using the app!!");
+				System.out.println("Thank you for using the app!!");
 				System.out.println("Exiting the application....");
 				System.out.println("**********************************");
 				System.exit(0);
